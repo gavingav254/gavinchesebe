@@ -1,15 +1,37 @@
-✦ Welcome to My GitHub MULTI-Universe ✦
+<!-- Neon Themed GitHub Profile README for gavingav254 -->
+<!-- Created with ❤️ by Gavin Chesebe -->
 
-I build with logic and imagine in pixels. From code to scripts, I create worlds.
+<div align="center">
+  <h1>
+    ✨ Welcome to My GitHub Universe ✨
+  </h1>
+  <p>
+    <i>I build with logic and imagine in pixels.<br>From code to scripts, I create worlds.</i>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Animated Neon Badges (static but look cool) -->
+  <img src="https://img.shields.io/badge/AI%2FML-Developer-ff69b4?style=for-the-badge&logo=python&logoColor=white&color=0a0a2a" />
+  <img src="https://img.shields.io/badge/Vibe%20Coder-AI%20Powered-00ffcc?style=for-the-badge&logo=openai&logoColor=white&color=0a0a2a" />
+  <img src="https://img.shields.io/badge/Storyteller-Code%20%26%20Script-ffcc00?style=for-the-badge&logo=readthedocs&logoColor=white&color=0a0a2a" />
+</div>
+
+---
+
+## 🧠 About Me
 
 I'm a **developer in progress** based in Nairobi, Kenya, passionate about **AI/ML, vibe coding, and storytelling**. I love merging technical depth with imagination to build experiences that resonate.
 
 I’m currently diving deeper into machine learning pipelines, full‑stack development, and the art of **vibe coding** – using AI to rapidly prototype and bring ideas to life. I’m always open to collaborating on projects that push the boundaries of creativity and technology.
 
+🔗 **[My Portfolio](https://yourportfolio.com)** *(replace with actual link)*
 
 ---
 
-### 💡 My Core Skill Stack
+## 💡 My Core Skill Stack
 
 | Area | Tools & Languages |
 |------|-------------------|
@@ -20,7 +42,7 @@ I’m currently diving deeper into machine learning pipelines, full‑stack deve
 
 ---
 
-### 🧠 What I'm Currently Learning
+## 🧠 What I'm Currently Learning
 
 - Advanced ML pipelines and model deployment  
 - Full‑stack integration (Django + React)  
@@ -30,32 +52,51 @@ I’m currently diving deeper into machine learning pipelines, full‑stack deve
 
 ---
 
-### ✨ Fun Facts
+## ✨ Fun Facts
 
 - I can turn a vague idea into a working prototype faster than you’d expect – thanks to vibe coding.  
+- I sometimes talk to my code like it’s a collaborator.  
+- I believe every line of code should tell a story.  
+- I’m a huge fan of sci‑fi and how it inspires real‑world tech.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=radical)
+<div align="center">
+  <!-- Stats cards - they will populate once you have activity -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff69b4&text_color=c9d1d9" alt="Gavin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" alt="Top Languages" />
+</div>
 
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=radical)
-
----
-
-### 🟢 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=react-dark)
+> *Note: Stats update automatically as you add repositories and activity.*
 
 ---
 
-### 🌍 Let's Connect!
+## 🟢 Contribution Graph
 
-📧 **gavinchesebe2005@gmail.com**  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=react-dark&bg_color=0d1117&color=00ffcc&line=ff69b4&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
-*“I build with logic and imagine in pixels. From code to scripts, I create worlds.”*
+## 🌍 Let's Connect!
+
+<div align="center">
+  <a href="mailto:gavinchesebe2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gavinchesebe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/gavinchesebe">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>“I build with logic and imagine in pixels. From code to scripts, I create worlds.”</i>
+</div>
