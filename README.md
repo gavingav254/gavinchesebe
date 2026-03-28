@@ -6,9 +6,6 @@ I'm a **developer in progress** based in Nairobi, Kenya, passionate about **AI/M
 
 I’m currently diving deeper into machine learning pipelines, full‑stack development, and the art of **vibe coding** – using AI to rapidly prototype and bring ideas to life. I’m always open to collaborating on projects that push the boundaries of creativity and technology.
 
----
-
-🔗 **[My Portfolio](https://yourportfolio.com)** *(replace with actual link)*
 
 ---
 
@@ -41,17 +38,17 @@ I’m currently diving deeper into machine learning pipelines, full‑stack deve
 
 ### 📊 GitHub Stats
 
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinchesebe&show_icons=true&theme=radical)
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=radical)
 
 ### 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinchesebe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=radical)
 
 ---
 
 ### 🟢 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavinchesebe&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=react-dark)
 
 ---
 
