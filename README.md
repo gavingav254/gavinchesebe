@@ -27,7 +27,6 @@ I'm a **developer in progress** based in Nairobi, Kenya, passionate about **AI/M
 
 I’m currently diving deeper into machine learning pipelines, full‑stack development, and the art of **vibe coding** – using AI to rapidly prototype and bring ideas to life. I’m always open to collaborating on projects that push the boundaries of creativity and technology.
 
-🔗 **[My Portfolio](https://yourportfolio.com)** *(replace with actual link)*
 
 ---
 
@@ -55,9 +54,7 @@ I’m currently diving deeper into machine learning pipelines, full‑stack deve
 ## ✨ Fun Facts
 
 - I can turn a vague idea into a working prototype faster than you’d expect – thanks to vibe coding.  
-- I sometimes talk to my code like it’s a collaborator.  
-- I believe every line of code should tell a story.  
-- I’m a huge fan of sci‑fi and how it inspires real‑world tech.
+
 
 ---
 
@@ -68,8 +65,6 @@ I’m currently diving deeper into machine learning pipelines, full‑stack deve
   <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff69b4&text_color=c9d1d9" alt="Gavin's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" alt="Top Languages" />
 </div>
-
-> *Note: Stats update automatically as you add repositories and activity.*
 
 ---
 
@@ -86,12 +81,6 @@ I’m currently diving deeper into machine learning pipelines, full‑stack deve
 <div align="center">
   <a href="mailto:gavinchesebe2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/gavinchesebe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/gavinchesebe">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
