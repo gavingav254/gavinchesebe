@@ -36,14 +36,58 @@ I don’t just use AI tools — I build systems that connect them.
 
 ## 🛠️ Tech Stack  
 
+### ⚙️ Automation & Workflows  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=n8n" />
 </p>
 
-- ⚙️ Automation: n8n  
-- 🧠 AI: OpenAI, Gemini (Google AI Studio)  
-- 🌐 APIs + Webhooks  
-- 💻 JavaScript (growing daily)  
+- n8n (workflow automation)  
+- Webhooks & triggers  
+- Workflow logic & orchestration  
+
+---
+
+### 🧠 AI & Machine Intelligence  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai" />
+</p>
+
+- OpenAI (GPT models)  
+- Google AI Studio (Gemini)  
+- Prompt Engineering  
+- AI System Design  
+- Multi-step AI pipelines  
+
+---
+
+### 💻 Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs" />
+</p>
+
+- JavaScript  
+- Node.js (basics + integrations)  
+- REST APIs  
+- JSON handling  
+
+---
+
+### 🌐 Tools & Integration  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+- Git & GitHub  
+- API integrations  
+- Automation pipelines  
+- Third-party services (Canva, etc.)  
+
+---
+
+### 🎨 Creative Tech  
+- AI-generated visuals  
+- Poster & content systems  
+- Digital storytelling  
 
 ---
 
@@ -68,28 +112,6 @@ I don’t just use AI tools — I build systems that connect them.
 ---
 
 ## 🧩 How I Think (System Design)  
+
+```plaintext
 Input → AI → Logic → API → Automation → Output → Distribution
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" /> </p>
-🎯 Current Focus
-
-🚀 Building AI systems that generate value 24/7
-🔁 Automating real-world workflows
-🧠 Growing into an AI Systems Architect
-📬 Connect With Me
-
-<p align="center"> <a href="gavin_tyler"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:gavinchesebe2005@gmail.com"> <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail"> </a> </p>
-⚡ Philosophy
-
-Don’t just use AI tools.
-Build systems that use them for you.
-
-🔥 Currently Building
-AI Content Automation Systems
-n8n Workflows
-Intelligent AI Agents
-
-⭐ Final Note
-You’re looking at the early stage of a systems builder.
-More coming soon.
