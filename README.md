@@ -71,13 +71,13 @@ I don’t just use AI tools — I build systems that connect them.
 Input → AI → Logic → API → Automation → Output → Distribution
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" /> </p>
 🎯 Current Focus
 🚀 Building AI systems that generate value 24/7
 🔁 Automating real-world workflows
 🧠 Growing into an AI Systems Architect
 📬 Connect With Me
-<p align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail"> </a> </p>
+<p align="center"> <a href="gavin_tyler"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:gavinchesebe2005@gmail.com"> <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail"> </a> </p>
 ⚡ Philosophy
 
 Don’t just use AI tools.
@@ -87,7 +87,7 @@ Build systems that use them for you.
 AI Content Automation Systems
 n8n Workflows
 Intelligent AI Agents
-⭐ Final Note
 
+⭐ Final Note
 You’re looking at the early stage of a systems builder.
 More coming soon.
