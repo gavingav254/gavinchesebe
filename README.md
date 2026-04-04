@@ -73,10 +73,12 @@ Input → AI → Logic → API → Automation → Output → Distribution
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" /> </p>
 🎯 Current Focus
+
 🚀 Building AI systems that generate value 24/7
 🔁 Automating real-world workflows
 🧠 Growing into an AI Systems Architect
 📬 Connect With Me
+
 <p align="center"> <a href="gavin_tyler"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:gavinchesebe2005@gmail.com"> <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail"> </a> </p>
 ⚡ Philosophy
 
