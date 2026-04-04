@@ -98,26 +98,8 @@ I don’t just use AI tools — I build systems that connect them.
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" /> </p>
-🎯 Current Focus
-🚀 Building AI systems that generate value 24/7
-🔁 Automating real-world workflows
-🧠 Growing into an AI Systems Architect
-📬 Let’s Work
-<p align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail"> </a> </p>
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <!-- Total stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" alt="GitHub Streak Stats" />
-  
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavinngavy254&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" alt="GitHub Streak Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
