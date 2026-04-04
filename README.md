@@ -113,11 +113,11 @@ I don’t just use AI tools — I build systems that connect them.
 
 <p align="center">
   <!-- Total stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
   <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" alt="GitHub Streak Stats" />
   
   <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavinngavy254&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
