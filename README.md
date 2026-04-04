@@ -37,33 +37,44 @@ I don’t just use AI tools — I build systems that connect them.
 ## 🛠️ Tech Stack  
 
 ### ⚙️ Automation & Workflows  
-- n8n  
-- Webhooks & triggers  
-- Workflow orchestration  
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-Automation-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-Orchestration-2c5364?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🧠 AI & Intelligence  
-- OpenAI (GPT models)  
-- Google AI Studio (Gemini)  
-- Prompt Engineering  
-- AI system design  
-- Multi-step AI pipelines
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt-Engineering-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-System_Design-000000?style=for-the-badge"/>
+</p>
+
+---
 
 ### 💻 Development  
-- JavaScript  
-- Node.js (basics + integrations)  
-- REST APIs  
-- JSON handling  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs" />
+</p>
+
+---
 
 ### 🌐 Tools & Integration  
-- Git & GitHub  
-- API integrations  
-- Automation pipelines  
-- Third-party tools (Canva, etc.)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/APIs-Integration-blue?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🎨 Creative Tech  
-- AI-generated visuals  
-- Poster & content systems  
-- Digital storytelling  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Content_Generation-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design-Posters-9cf?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -83,30 +94,15 @@ I don’t just use AI tools — I build systems that connect them.
 
 - Multi-step workflows  
 - API integrations  
-- Real-world problem solving  
+- Real-world problem solving skills
 
 ---
-🧩 How I Think (System Design)
-Input → AI → Logic → API → Automation → Output → Distribution
+
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" /> </p>
 🎯 Current Focus
 🚀 Building AI systems that generate value 24/7
 🔁 Automating real-world workflows
 🧠 Growing into an AI Systems Architect
 📬 Let’s Work
 <p align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail"> </a> </p>
-⚡ Philosophy
-
-Don’t just use AI tools.
-Build systems that use them for you.
-
-🔥 Currently Building
-AI Content Automation Systems
-n8n Workflows
-Intelligent AI Agents
-⭐ Final Note
-
-You’re not looking at a beginner.
-You’re looking at a system builder in progress.
-Stay close.
