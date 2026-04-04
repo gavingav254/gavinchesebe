@@ -14,7 +14,7 @@
 
 ## 🧠 About Me  
 
-I don’t just use AI tools — I build systems that connect them.
+I design and build **AI-powered automation systems** that solve real-world problems.  
 
 - 🤖 AI Automation Engineer  
 - 🔁 Workflow Builder (n8n)  
@@ -26,11 +26,11 @@ I don’t just use AI tools — I build systems that connect them.
 
 ## ⚡ What I Do  
 
-- 🔁 Automate repetitive tasks using AI  
-- 🧩 Build intelligent workflows with n8n  
-- 🧠 Design AI-powered systems  
-- 📢 Create content generation engines  
-- 🌐 Integrate APIs into real solutions  
+- Automate repetitive tasks with AI  
+- Build intelligent workflows with n8n  
+- Design content generation engines  
+- Integrate APIs into real solutions  
+- Build systems that work 24/7  
 
 ---
 
@@ -43,8 +43,6 @@ I don’t just use AI tools — I build systems that connect them.
   <img src="https://img.shields.io/badge/Automation-Orchestration-2c5364?style=for-the-badge"/>
 </p>
 
----
-
 ### 🧠 AI & Intelligence  
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -53,22 +51,16 @@ I don’t just use AI tools — I build systems that connect them.
   <img src="https://img.shields.io/badge/AI-System_Design-000000?style=for-the-badge"/>
 </p>
 
----
-
 ### 💻 Development  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs" />
 </p>
-
----
 
 ### 🌐 Tools & Integration  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
   <img src="https://img.shields.io/badge/APIs-Integration-blue?style=for-the-badge"/>
 </p>
-
----
 
 ### 🎨 Creative Tech  
 <p align="center">
@@ -87,19 +79,41 @@ I don’t just use AI tools — I build systems that connect them.
 - Built for clubs, creators & small brands  
 - Saves hours of manual work  
 
----
-
 ### 🔹 AI Workflow Systems  
 > Automation pipelines that run 24/7  
 
 - Multi-step workflows  
 - API integrations  
-- Real-world problem solving skills
+- Real-world problem solving  
 
 ---
+## 📊 GitHub Stats & Activity  
 
+<p align="center">
+  <!-- Total stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" alt="GitHub Streak Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" /> </p>
+<p align="center">
+  <!-- Optional Top Languages fallback -->
+  <b>Top Languages (manual fallback)</b>
+  <table>
+    <tr>
+      <th>Language</th>
+      <th>Proficiency</th>
+    </tr>
+    <tr><td>JavaScript</td><td>⭐⭐⭐⭐☆</td></tr>
+    <tr><td>Node.js</td><td>⭐⭐⭐⭐☆</td></tr>
+    <tr><td>n8n</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>OpenAI GPT</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Google AI Studio</td><td>⭐⭐⭐⭐☆</td></tr>
+    <tr><td>Git & GitHub</td><td>⭐⭐⭐⭐☆</td></tr>
+    <tr><td>API Integration</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>AI Content Gen</td><td>⭐⭐⭐⭐⭐</td></tr>
+  </table>
+</p>
