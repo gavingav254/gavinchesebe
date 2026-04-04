@@ -69,7 +69,6 @@ I don’t just use AI tools — I build systems that connect them.
 
 ## 🧩 How I Think (System Design)  
 
-```plaintext
 Input → AI → Logic → API → Automation → Output → Distribution
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
