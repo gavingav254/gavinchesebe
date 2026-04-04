@@ -106,3 +106,18 @@ I don’t just use AI tools — I build systems that connect them.
 🧠 Growing into an AI Systems Architect
 📬 Let’s Work
 <p align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Work%20With%20Me-red?style=for-the-badge&logo=gmail"> </a> </p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <!-- Total stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak Stats" />
+  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
