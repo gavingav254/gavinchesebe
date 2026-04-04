@@ -1,91 +1,27 @@
-<!-- Neon Themed GitHub Profile README for gavingav254 -->
-<!-- Created with ❤️ by Gavin Chesebe -->
+# 💫 About Me:
+I'm a developer in progress based in Nairobi, Kenya, passionate about AI/ML, vibe coding, and AI Orcherstration. I love merging technical depth with imagination to build experiences that resonate.<br><br>I’m currently diving deeper into machine learning pipelines, full‑stack development, and the art of vibe coding – using AI to rapidly prototype and bring ideas to life. I’m always open to collaborating on projects that push the boundaries of creativity and technology.
 
-<div align="center">
-  <h1>
-    ✨ Welcome to My GitHub Universe ✨
-  </h1>
-  <p>
-    <i>I build with logic and imagine in pixels.<br>From code to scripts, I create worlds.</i>
-  </p>
-</div>
 
-<br>
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@gavin Tyler) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gavinchesebe2005@gmail.com) 
 
-<div align="center">
-  <!-- Animated Neon Badges (static but look cool) -->
-  <img src="https://img.shields.io/badge/AI%2FML-Developer-ff69b4?style=for-the-badge&logo=python&logoColor=white&color=0a0a2a" />
-  <img src="https://img.shields.io/badge/Vibe%20Coder-AI%20Powered-00ffcc?style=for-the-badge&logo=openai&logoColor=white&color=0a0a2a" />
-  <img src="https://img.shields.io/badge/Storyteller-Code%20%26%20Script-ffcc00?style=for-the-badge&logo=readthedocs&logoColor=white&color=0a0a2a" />
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=plastic&logo=adonisjs&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=plastic&logo=sentry&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gavingav254&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gavingav254&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gavingav254&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🧠 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I'm a **developer in progress** based in Nairobi, Kenya, passionate about **AI/ML, vibe coding, and storytelling**. I love merging technical depth with imagination to build experiences that resonate.
-
-I’m currently diving deeper into machine learning pipelines, full‑stack development, and the art of **vibe coding** – using AI to rapidly prototype and bring ideas to life. I’m always open to collaborating on projects that push the boundaries of creativity and technology.
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gavingav254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=gavingav254&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 My Core Skill Stack
-
-| Area | Tools & Languages |
-|------|-------------------|
-| **AI/ML** | Python, TensorFlow, scikit‑learn, NLP, LLMs |
-| **Web Dev** | Django, React, JavaScript, HTML/CSS |
-| **Vibe Coding** | Claude, ChatGPT, Cursor, GitHub Copilot |
-| **Tools** | Git, GitHub, VS Code, Figma |
-
----
-
-## 🧠 What I'm Currently Learning
-
-- Advanced ML pipelines and model deployment  
-- Full‑stack integration (Django + React)  
-- Mobile app development with Flutter  
-- Cloud hosting (Railway, Netlify, AWS basics)  
-- Mastering prompt engineering for vibe coding
-
----
-
-## ✨ Fun Facts
-
-- I can turn a vague idea into a working prototype faster than you’d expect – thanks to vibe coding.  
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- Stats cards - they will populate once you have activity -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff69b4&text_color=c9d1d9" alt="Gavin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
----
-
-## 🟢 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=react-dark&bg_color=0d1117&color=00ffcc&line=ff69b4&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🌍 Let's Connect!
-
-<div align="center">
-  <a href="mailto:gavinchesebe2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <i>“I build with logic and imagine in pixels. From code to scripts, I create worlds.”</i>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
