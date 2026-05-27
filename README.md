@@ -7,7 +7,7 @@
 ### AI Orchestrator • Automation Engineer • System Builder  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+systems+that+work+while+you+sleep;AI+Automation+%7C+n8n+%7C+APIs;Turning+ideas+into+intelligent+systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+systems+that+work+while+you+sleep;AI+Automation+%7C+n8n+%7C+APIs;Turning+ideas+into+intelligent+systems&center=true&width=500&height=100&color=2c5364" />
 </p>
 
 ---
@@ -97,6 +97,11 @@ I design and build **AI-powered automation systems** that solve real-world probl
 <p align="center">
   <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- GitHub Contribution Snake -->
+  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
