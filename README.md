@@ -12,6 +12,15 @@
 
 ---
 
+## 📊 GitHub Contribution Snake
+
+<p align="center">
+  <!-- GitHub Contribution Snake -->
+  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ## 🧠 About Me  
 
 I design and build **AI-powered automation systems** that solve real-world problems.  
@@ -87,7 +96,7 @@ I design and build **AI-powered automation systems** that solve real-world probl
 - Real-world problem solving  
 
 ---
-## 📊 GitHub Stats & Activity  
+## 📈 GitHub Stats & Activity  
 
 <p align="center">
   <!-- Total stats -->
@@ -97,11 +106,6 @@ I design and build **AI-powered automation systems** that solve real-world probl
 <p align="center">
   <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <!-- GitHub Contribution Snake -->
-  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
