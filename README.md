@@ -14,10 +14,37 @@
 
 ## 📊 GitHub Contribution Snake
 
-<p align="center">
-  <!-- GitHub Contribution Snake -->
-  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+name: Generate Contribution Snake
+
+on:
+  # Runs daily at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual trigger
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Outputs the SVG to the dist/ folder
+          outputs: dist/github-contribution-grid-snake.svg?palette=github
+
+      - name: push svg to the 'output' branch
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
