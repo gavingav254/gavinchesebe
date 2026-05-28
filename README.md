@@ -67,9 +67,17 @@ Based in **Nairobi, Kenya** 🇰🇪 | Operating globally.
 
 ## 🐍 GitHub Contribution Snake
 
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gavingav254/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  </picture>
 </div>
+
+> *Watch my contributions come alive — retro snake style!*
 
 > *My coding activity visualized as a retro snake game — because why be basic?*
 
